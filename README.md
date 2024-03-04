@@ -1,12 +1,12 @@
 
 # Career Goals Reflection 
 
-### Personal Information
+### Personal Information 😊
 
-- **Name:Makeda Lelo-zwi Dumeko**
-- **Date:26 March 2002**
-- **Current Role/Position:Junior Software Developer**
-- **Field of Interest:Web development**
+- **Name: Makeda Lelo-zwi Dumeko**
+- **Date: 26 March 2002**
+- **Current Role/Position: Enrty-level Software Developer**
+- **Field of Interest: Web development**
 
 ### Part 1: Self-Assessment Reflection
 
