@@ -69,7 +69,12 @@
       
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
+    - Preparations or groundwork necessary for long-term aspirations:
+      - Excellent coding skills but also the ability to learn constantly
+      - Good relationships with employers, recruiters, and colleagues
+      - Supportive community
+      - Ever-evolving portfolio 
+       
     - Additional skills, experiences, or qualifications needed:
       - I think as a mid-senior level developer I would need to have a good understanding of backend technologies
       - I would need more work experience
