@@ -19,7 +19,7 @@
 2. **Interests and Values**:
     
     - My key interests are creating interesting web pages and layouts
-    - Some things = that I value  in my working environment are freedom of movement in the space, prioritising social, physical and mental health, and diversity. 
+    - Some things that I value  in my working environment are freedom of movement in the space, prioritising social, physical and mental health, and diversity. 
       
 ### Part 2: Career Exploration Insights
 
